@@ -1,7 +1,7 @@
 package com.tukalo.university.dao;
 
-import com.tukalo.university.RowMapper.DepartmentRowMapper;
-import com.tukalo.university.RowMapper.LectorRowMapper;
+import com.tukalo.university.rowMapper.DepartmentRowMapper;
+import com.tukalo.university.rowMapper.LectorRowMapper;
 import com.tukalo.university.model.Department;
 import com.tukalo.university.model.Lector;
 import org.springframework.beans.factory.annotation.Autowired;

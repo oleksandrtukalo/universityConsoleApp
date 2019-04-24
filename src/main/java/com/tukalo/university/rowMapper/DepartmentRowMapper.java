@@ -1,4 +1,4 @@
-package com.tukalo.university.RowMapper;
+package com.tukalo.university.rowMapper;
 
 import com.tukalo.university.model.Department;
 import org.springframework.jdbc.core.RowMapper;
